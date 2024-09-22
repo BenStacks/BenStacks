@@ -1,4 +1,4 @@
-👋 Hi, I’m @BenStacks
+👋 Hi, I’m **Bennett Uchechukwu** 
 
 👀 I’m interested in web development, especially the exciting world of Web3 and blockchain technology. I'm passionate about building decentralized applications (dApps) and exploring how blockchain can transform various industries.
 
