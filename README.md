@@ -2,7 +2,7 @@
 
 👀 I’m interested in web development, especially the exciting world of Web3 and blockchain technology. I'm passionate about building decentralized applications (dApps) and exploring how blockchain can transform various industries.
 
-🌱 I’m currently learning HTML, CSS, and JavaScript to build a solid foundation in web development. I'm also diving into clarity and solidity to understand smart contracts and how to interact with bitcoin, stx, and Ethereum.
+🌱 I’m currently learning React, Nodejs and clarity smart contract language to build a solid foundation in web development. I'm also diving into clarity and solidity to understand smart contracts and how to interact with bitcoin, stx, and Ethereum.
 
 💞️ I’m looking to collaborate on projects related to Web3, whether it's building a dApp, contributing to open-source projects, or exploring new blockchain technologies together!
 
